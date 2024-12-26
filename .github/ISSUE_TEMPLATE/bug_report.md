@@ -23,8 +23,7 @@ assignees: ''
 -
 
 ## Possible Solution
-- 
+-
 
 ## Your Environment
 -
-
